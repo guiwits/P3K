@@ -7,7 +7,7 @@ import binascii
 import time
 import numpy
 
-HOST = "198.202.125.206"        # p3k-telem@cit
+HOST = "192.168.0.100"       
 PORT = 10107                    # HWFP Params Subscriber Port
 AOCAPORT = 10000                # AOCA Communication Port
 MSGLEN = 888                    # Number of Bytes in hwfp_stat_t

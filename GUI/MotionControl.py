@@ -14,7 +14,7 @@ motorRB = [] ### Motor Radio Button ###
 motorUI = [] ### Motor Position - User Input ###
 motorCV = [] ### Motor Current Value ###
 
-HOST = "198.202.125.206"    	# p3k-telem@cit
+HOST = "192.168.0.100"  
 PORT = 10106			# Motor Subscriber Port
 AOCAPORT = 10000		# AOCA Communication Port
 MSGLEN = 192 			# Bytes

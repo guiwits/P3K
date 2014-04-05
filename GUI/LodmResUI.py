@@ -22,7 +22,7 @@ ID_REGDM   = 102
 ID_BCKGRND = 103
 ID_SETTING = 104
 
-HOST = "198.202.125.206"    # p3k-telem@palomar
+HOST = "192.168.0.100" 
 LODMRESPORT = 10109
 MSGLEN = 882		    # 21^2 * 2 bytes
 
