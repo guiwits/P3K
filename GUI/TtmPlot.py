@@ -19,7 +19,7 @@ from matplotlib.backends.backend_wxagg import \
 import numpy as np
 import pylab
 
-HOST = "198.202.125.206"	# p3k-telem.palomar.caltech.edu
+HOST = "192.168.0.100"	
 TTMPOSPORT = 10110
 MSGLEN = 8
 
